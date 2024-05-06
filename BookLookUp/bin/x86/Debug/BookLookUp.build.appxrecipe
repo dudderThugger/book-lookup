@@ -28,6 +28,9 @@
     <AppxPackagedFile Include="C:\Users\Ádám\source\repos\klitech\HF\BookLookUp\BookLookUp\bin\x86\Debug\BookLookUp.exe">
       <PackagePath>entrypoint\BookLookUp.exe</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ádám\.nuget\packages\microsoft.bcl.asyncinterfaces\8.0.0\lib\netstandard2.0\Microsoft.Bcl.AsyncInterfaces.dll">
+      <PackagePath>Microsoft.Bcl.AsyncInterfaces.dll</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Ádám\.nuget\packages\microsoft.xaml.behaviors.uwp.managed\1.1.0\lib\uap10.0\Microsoft.Xaml.Interactions.dll">
       <PackagePath>Microsoft.Xaml.Interactions.dll</PackagePath>
     </AppxPackagedFile>
@@ -39,6 +42,15 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.2.14\runtimes\win10-x86\lib\uap10.0.15138\System.Runtime.dll">
       <PackagePath>System.Runtime.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ádám\.nuget\packages\system.runtime.compilerservices.unsafe\6.0.0\lib\netstandard2.0\System.Runtime.CompilerServices.Unsafe.dll">
+      <PackagePath>System.Runtime.CompilerServices.Unsafe.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ádám\.nuget\packages\system.text.encodings.web\8.0.0\lib\netstandard2.0\System.Text.Encodings.Web.dll">
+      <PackagePath>System.Text.Encodings.Web.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ádám\.nuget\packages\system.text.json\8.0.3\lib\netstandard2.0\System.Text.Json.dll">
+      <PackagePath>System.Text.Json.dll</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Ádám\.nuget\packages\template10\1.1.12\lib\uap10.0\Template10Library.dll">
       <PackagePath>Template10Library.dll</PackagePath>
@@ -90,6 +102,9 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Ádám\source\repos\klitech\HF\BookLookUp\BookLookUp\bin\x86\Debug\Styles\Custom.xbf">
       <PackagePath>Styles\Custom.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ádám\source\repos\klitech\HF\BookLookUp\BookLookUp\bin\x86\Debug\Views\DetailsPage.xbf">
+      <PackagePath>Views\DetailsPage.xbf</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Ádám\source\repos\klitech\HF\BookLookUp\BookLookUp\bin\x86\Debug\Views\MainPage.xbf">
       <PackagePath>Views\MainPage.xbf</PackagePath>

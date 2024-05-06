@@ -123,8 +123,14 @@
     <Compile Include="Models\Book.cs" />
     <Compile Include="Models\BookList.cs" />
     <Compile Include="Models\SearchResult.cs" />
-    <Compile Include="Sevices\OpenLibraryService.cs" />
+    <Compile Include="Models\Work.cs" />
+    <Compile Include="Services\Converters.cs" />
+    <Compile Include="Services\OpenLibraryService.cs" />
+    <Compile Include="ViewModels\DetailsPageViewModel.cs" />
     <Compile Include="ViewModels\MainPageViewModel.cs" />
+    <Compile Include="Views\DetailsPage.xaml.cs">
+      <DependentUpon>DetailsPage.xaml</DependentUpon>
+    </Compile>
     <Compile Include="Views\MainPage.xaml.cs">
       <DependentUpon>MainPage.xaml</DependentUpon>
     </Compile>
@@ -154,6 +160,10 @@
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
+    <Page Include="Views\DetailsPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="Views\MainPage.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
@@ -165,6 +175,9 @@
     </PackageReference>
     <PackageReference Include="Newtonsoft.Json">
       <Version>9.0.1</Version>
+    </PackageReference>
+    <PackageReference Include="System.Text.Json">
+      <Version>8.0.3</Version>
     </PackageReference>
     <PackageReference Include="Template10">
       <Version>1.1.12</Version>

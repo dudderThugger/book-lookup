@@ -31,34 +31,38 @@
         <controls:PageHeader Content="Book Look-Up" Grid.Row="0" />
         <StackPanel Grid.Row="1" Grid.Column="0">
             <StackPanel Margin="25" Orientation="Horizontal" HorizontalAlignment="Stretch" >
-                <AutoSuggestBox x:ConnectionId='5' x:Name="searchBox"
+                <AutoSuggestBox x:ConnectionId='6' x:Name="searchBox"
                             PlaceholderText="Search for a book"
-                                                                     
+                                                                          
                                                                     
                                                                               
-                            VerticalAlignment="Center" Width="1331" FontSize="22"/>
-                <ComboBox x:ConnectionId='6' x:Name="searchOptions"
+                            VerticalAlignment="Center" Width="1331" FontSize="22"
+                            QueryIcon="Find"/>
+                <ComboBox x:ConnectionId='7' x:Name="searchOptions"
                     SelectedIndex="0" VerticalAlignment="Center" FontSize="18"                                                  >
                     <ComboBoxItem Content="Title"/>
                     <ComboBoxItem Content="Author"/>
                     <ComboBoxItem Content="Keywords"/>
                 </ComboBox>
-                <Button x:ConnectionId='7'                           
-                        VerticalAlignment="Center">
-                    <SymbolIcon Symbol="Find" VerticalAlignment="Center" HorizontalAlignment="Center"/>
-                </Button>
             </StackPanel>
         </StackPanel>
 
-        <GridView Grid.Row="2"
+        <GridView x:ConnectionId='3' Grid.Row="2"
           Padding="18"
-          ItemsSource="{Binding Source={StaticResource BooksViewSource}}">
+          ItemsSource="{Binding Source={StaticResource BooksViewSource}}"
+          IsItemClickEnabled="True"                           >
             <GridView.ItemTemplate>
                 <DataTemplate>
-                    <Grid Width="250" Height="250">
+                    <Grid Width="250" Height="500">
                         <Image Source="{Binding Image}" Stretch="UniformToFill" VerticalAlignment="Center" />
                         <Border VerticalAlignment="Bottom" Background="#AA000000">
-                            <TextBlock Text="{Binding Title }" Margin="12" Foreground="White"/>
+                            <StackPanel Orientation="Vertical">
+                                <TextBlock Text="{Binding Title }" Margin="12" Foreground="White"/>
+                                <StackPanel Orientation="Horizontal" Width="Auto">
+                                    <TextBlock Text="{Binding AuthorStr }" Margin="12" Foreground="LightGray" HorizontalAlignment="Left" TextWrapping="Wrap"/>
+                                    <TextBlock Text="{Binding FirstPublishYear }" Margin="12" Foreground="Gray" HorizontalAlignment="Right"/>
+                                </StackPanel>
+                            </StackPanel>
                         </Border>
                     </Grid>
                 </DataTemplate>

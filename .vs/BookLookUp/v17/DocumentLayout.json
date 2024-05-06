@@ -3,68 +3,72 @@
   "WorkspaceRootPath": "C:\\Users\\\u00C1d\u00E1m\\source\\repos\\klitech\\HF\\BookLookUp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8B4FCCC9-4241-4EE2-9B93-ACE4427FD1D4}|BookLookUp\\BookLookUp.csproj|c:\\users\\\u00E1d\u00E1m\\source\\repos\\klitech\\hf\\booklookup\\booklookup\\views\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{8B4FCCC9-4241-4EE2-9B93-ACE4427FD1D4}|BookLookUp\\BookLookUp.csproj|solutionrelative:booklookup\\views\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8B4FCCC9-4241-4EE2-9B93-ACE4427FD1D4}|BookLookUp\\BookLookUp.csproj|C:\\Users\\\u00C1d\u00E1m\\source\\repos\\klitech\\HF\\BookLookUp\\booklookup\\viewmodels\\mainpageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B4FCCC9-4241-4EE2-9B93-ACE4427FD1D4}|BookLookUp\\BookLookUp.csproj|solutionrelative:booklookup\\viewmodels\\mainpageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8B4FCCC9-4241-4EE2-9B93-ACE4427FD1D4}|BookLookUp\\BookLookUp.csproj|c:\\users\\\u00E1d\u00E1m\\source\\repos\\klitech\\hf\\booklookup\\booklookup\\models\\booklist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B4FCCC9-4241-4EE2-9B93-ACE4427FD1D4}|BookLookUp\\BookLookUp.csproj|solutionrelative:booklookup\\models\\booklist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8B4FCCC9-4241-4EE2-9B93-ACE4427FD1D4}|BookLookUp\\BookLookUp.csproj|c:\\users\\\u00E1d\u00E1m\\source\\repos\\klitech\\hf\\booklookup\\booklookup\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B4FCCC9-4241-4EE2-9B93-ACE4427FD1D4}|BookLookUp\\BookLookUp.csproj|solutionrelative:booklookup\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u00C1d\u00E1m\\source\\repos\\klitech\\HF\\BookLookUp\\BookLookUp\\obj\\x86\\Debug\\App.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BookLookUp\\obj\\x86\\Debug\\App.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8B4FCCC9-4241-4EE2-9B93-ACE4427FD1D4}|BookLookUp\\BookLookUp.csproj|C:\\Users\\\u00C1d\u00E1m\\source\\repos\\klitech\\HF\\BookLookUp\\booklookup\\views\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B4FCCC9-4241-4EE2-9B93-ACE4427FD1D4}|BookLookUp\\BookLookUp.csproj|solutionrelative:booklookup\\views\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8B4FCCC9-4241-4EE2-9B93-ACE4427FD1D4}|BookLookUp\\BookLookUp.csproj|c:\\users\\\u00E1d\u00E1m\\source\\repos\\klitech\\hf\\booklookup\\booklookup\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8B4FCCC9-4241-4EE2-9B93-ACE4427FD1D4}|BookLookUp\\BookLookUp.csproj|C:\\Users\\\u00C1d\u00E1m\\source\\repos\\klitech\\HF\\BookLookUp\\booklookup\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8B4FCCC9-4241-4EE2-9B93-ACE4427FD1D4}|BookLookUp\\BookLookUp.csproj|solutionrelative:booklookup\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8B4FCCC9-4241-4EE2-9B93-ACE4427FD1D4}|BookLookUp\\BookLookUp.csproj|c:\\users\\\u00E1d\u00E1m\\source\\repos\\klitech\\hf\\booklookup\\booklookup\\sevices\\openlibraryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B4FCCC9-4241-4EE2-9B93-ACE4427FD1D4}|BookLookUp\\BookLookUp.csproj|solutionrelative:booklookup\\sevices\\openlibraryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8B4FCCC9-4241-4EE2-9B93-ACE4427FD1D4}|BookLookUp\\BookLookUp.csproj|C:\\Users\\\u00C1d\u00E1m\\source\\repos\\klitech\\HF\\BookLookUp\\booklookup\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B4FCCC9-4241-4EE2-9B93-ACE4427FD1D4}|BookLookUp\\BookLookUp.csproj|solutionrelative:booklookup\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B4FCCC9-4241-4EE2-9B93-ACE4427FD1D4}|BookLookUp\\BookLookUp.csproj|C:\\Users\\\u00C1d\u00E1m\\source\\repos\\klitech\\HF\\BookLookUp\\booklookup\\models\\booklist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B4FCCC9-4241-4EE2-9B93-ACE4427FD1D4}|BookLookUp\\BookLookUp.csproj|solutionrelative:booklookup\\models\\booklist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8B4FCCC9-4241-4EE2-9B93-ACE4427FD1D4}|BookLookUp\\BookLookUp.csproj|c:\\users\\\u00E1d\u00E1m\\source\\repos\\klitech\\hf\\booklookup\\booklookup\\models\\searchresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8B4FCCC9-4241-4EE2-9B93-ACE4427FD1D4}|BookLookUp\\BookLookUp.csproj|solutionrelative:booklookup\\models\\searchresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8B4FCCC9-4241-4EE2-9B93-ACE4427FD1D4}|BookLookUp\\BookLookUp.csproj|c:\\users\\\u00E1d\u00E1m\\source\\repos\\klitech\\hf\\booklookup\\booklookup\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B4FCCC9-4241-4EE2-9B93-ACE4427FD1D4}|BookLookUp\\BookLookUp.csproj|solutionrelative:booklookup\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8B4FCCC9-4241-4EE2-9B93-ACE4427FD1D4}|BookLookUp\\BookLookUp.csproj|C:\\Users\\\u00C1d\u00E1m\\source\\repos\\klitech\\HF\\BookLookUp\\booklookup\\models\\work.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B4FCCC9-4241-4EE2-9B93-ACE4427FD1D4}|BookLookUp\\BookLookUp.csproj|solutionrelative:booklookup\\models\\work.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8B4FCCC9-4241-4EE2-9B93-ACE4427FD1D4}|BookLookUp\\BookLookUp.csproj|C:\\Users\\\u00C1d\u00E1m\\source\\repos\\klitech\\HF\\BookLookUp\\booklookup\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{8B4FCCC9-4241-4EE2-9B93-ACE4427FD1D4}|BookLookUp\\BookLookUp.csproj|solutionrelative:booklookup\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{8B4FCCC9-4241-4EE2-9B93-ACE4427FD1D4}|BookLookUp\\BookLookUp.csproj|c:\\users\\\u00E1d\u00E1m\\source\\repos\\klitech\\hf\\booklookup\\booklookup\\services\\converters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B4FCCC9-4241-4EE2-9B93-ACE4427FD1D4}|BookLookUp\\BookLookUp.csproj|solutionrelative:booklookup\\services\\converters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8B4FCCC9-4241-4EE2-9B93-ACE4427FD1D4}|BookLookUp\\BookLookUp.csproj|c:\\users\\\u00E1d\u00E1m\\source\\repos\\klitech\\hf\\booklookup\\booklookup\\obj\\x86\\debug\\views\\mainpage.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B4FCCC9-4241-4EE2-9B93-ACE4427FD1D4}|BookLookUp\\BookLookUp.csproj|solutionrelative:booklookup\\obj\\x86\\debug\\views\\mainpage.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8B4FCCC9-4241-4EE2-9B93-ACE4427FD1D4}|BookLookUp\\BookLookUp.csproj|C:\\Users\\\u00C1d\u00E1m\\source\\repos\\klitech\\HF\\BookLookUp\\booklookup\\services\\openlibraryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B4FCCC9-4241-4EE2-9B93-ACE4427FD1D4}|BookLookUp\\BookLookUp.csproj|solutionrelative:booklookup\\services\\openlibraryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8B4FCCC9-4241-4EE2-9B93-ACE4427FD1D4}|BookLookUp\\BookLookUp.csproj|c:\\users\\\u00E1d\u00E1m\\source\\repos\\klitech\\hf\\booklookup\\booklookup\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B4FCCC9-4241-4EE2-9B93-ACE4427FD1D4}|BookLookUp\\BookLookUp.csproj|solutionrelative:booklookup\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8B4FCCC9-4241-4EE2-9B93-ACE4427FD1D4}|BookLookUp\\BookLookUp.csproj|C:\\Users\\\u00C1d\u00E1m\\source\\repos\\klitech\\HF\\BookLookUp\\booklookup\\package.appxmanifest||{4D47164B-07B6-4A52-A855-728D6A2E2AA3}",
-      "RelativeMoniker": "D:0:0:{8B4FCCC9-4241-4EE2-9B93-ACE4427FD1D4}|BookLookUp\\BookLookUp.csproj|solutionrelative:booklookup\\package.appxmanifest||{4D47164B-07B6-4A52-A855-728D6A2E2AA3}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8B4FCCC9-4241-4EE2-9B93-ACE4427FD1D4}|BookLookUp\\BookLookUp.csproj|C:\\Users\\\u00C1d\u00E1m\\source\\repos\\klitech\\HF\\BookLookUp\\booklookup\\styles\\custom.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{8B4FCCC9-4241-4EE2-9B93-ACE4427FD1D4}|BookLookUp\\BookLookUp.csproj|c:\\users\\\u00E1d\u00E1m\\source\\repos\\klitech\\hf\\booklookup\\booklookup\\styles\\custom.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{8B4FCCC9-4241-4EE2-9B93-ACE4427FD1D4}|BookLookUp\\BookLookUp.csproj|solutionrelative:booklookup\\styles\\custom.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u00C1d\u00E1m\\source\\repos\\klitech\\HF\\BookLookUp\\BookLookUp\\obj\\x86\\Debug\\Views\\MainPage.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BookLookUp\\obj\\x86\\Debug\\Views\\MainPage.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8B4FCCC9-4241-4EE2-9B93-ACE4427FD1D4}|BookLookUp\\BookLookUp.csproj|C:\\Users\\\u00C1d\u00E1m\\source\\repos\\klitech\\HF\\BookLookUp\\booklookup\\viewmodels\\detailspageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B4FCCC9-4241-4EE2-9B93-ACE4427FD1D4}|BookLookUp\\BookLookUp.csproj|solutionrelative:booklookup\\viewmodels\\detailspageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B4FCCC9-4241-4EE2-9B93-ACE4427FD1D4}|BookLookUp\\BookLookUp.csproj|C:\\Users\\\u00C1d\u00E1m\\source\\repos\\klitech\\HF\\BookLookUp\\booklookup\\viewmodels\\mainpageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B4FCCC9-4241-4EE2-9B93-ACE4427FD1D4}|BookLookUp\\BookLookUp.csproj|solutionrelative:booklookup\\viewmodels\\mainpageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B4FCCC9-4241-4EE2-9B93-ACE4427FD1D4}|BookLookUp\\BookLookUp.csproj|C:\\Users\\\u00C1d\u00E1m\\source\\repos\\klitech\\HF\\BookLookUp\\booklookup\\views\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B4FCCC9-4241-4EE2-9B93-ACE4427FD1D4}|BookLookUp\\BookLookUp.csproj|solutionrelative:booklookup\\views\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B4FCCC9-4241-4EE2-9B93-ACE4427FD1D4}|BookLookUp\\BookLookUp.csproj|C:\\Users\\\u00C1d\u00E1m\\source\\repos\\klitech\\HF\\BookLookUp\\booklookup\\views\\detailspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B4FCCC9-4241-4EE2-9B93-ACE4427FD1D4}|BookLookUp\\BookLookUp.csproj|solutionrelative:booklookup\\views\\detailspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B4FCCC9-4241-4EE2-9B93-ACE4427FD1D4}|BookLookUp\\BookLookUp.csproj|c:\\users\\\u00E1d\u00E1m\\source\\repos\\klitech\\hf\\booklookup\\booklookup\\views\\detailspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8B4FCCC9-4241-4EE2-9B93-ACE4427FD1D4}|BookLookUp\\BookLookUp.csproj|solutionrelative:booklookup\\views\\detailspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u00C1d\u00E1m\\source\\repos\\klitech\\HF\\BookLookUp\\BookLookUp\\obj\\x86\\Debug\\App.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BookLookUp\\obj\\x86\\Debug\\App.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B4FCCC9-4241-4EE2-9B93-ACE4427FD1D4}|BookLookUp\\BookLookUp.csproj|C:\\Users\\\u00C1d\u00E1m\\source\\repos\\klitech\\HF\\BookLookUp\\booklookup\\views\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8B4FCCC9-4241-4EE2-9B93-ACE4427FD1D4}|BookLookUp\\BookLookUp.csproj|solutionrelative:booklookup\\views\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u00C1d\u00E1m\\source\\repos\\klitech\\HF\\BookLookUp\\BookLookUp\\obj\\x86\\Debug\\Views\\MainPage.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BookLookUp\\obj\\x86\\Debug\\Views\\MainPage.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u00C1d\u00E1m\\source\\repos\\klitech\\HF\\BookLookUp\\BookLookUp\\obj\\x86\\Debug\\Views\\DetailsPage.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BookLookUp\\obj\\x86\\Debug\\Views\\DetailsPage.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -74,58 +78,70 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MainPageViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\\u00C1d\u00E1m\\source\\repos\\klitech\\HF\\BookLookUp\\BookLookUp\\ViewModels\\MainPageViewModel.cs",
-              "RelativeDocumentMoniker": "BookLookUp\\ViewModels\\MainPageViewModel.cs",
-              "ToolTip": "C:\\Users\\\u00C1d\u00E1m\\source\\repos\\klitech\\HF\\BookLookUp\\BookLookUp\\ViewModels\\MainPageViewModel.cs",
-              "RelativeToolTip": "BookLookUp\\ViewModels\\MainPageViewModel.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAD4vxYAAAA0AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T12:46:18.877Z",
+              "DocumentIndex": 7,
+              "Title": "Custom.xaml",
+              "DocumentMoniker": "C:\\Users\\\u00C1d\u00E1m\\source\\repos\\klitech\\HF\\BookLookUp\\BookLookUp\\Styles\\Custom.xaml",
+              "RelativeDocumentMoniker": "BookLookUp\\Styles\\Custom.xaml",
+              "ToolTip": "C:\\Users\\\u00C1d\u00E1m\\source\\repos\\klitech\\HF\\BookLookUp\\BookLookUp\\Styles\\Custom.xaml",
+              "RelativeToolTip": "BookLookUp\\Styles\\Custom.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-06T11:07:16.366Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "SearchResult.cs",
-              "DocumentMoniker": "C:\\Users\\\u00C1d\u00E1m\\source\\repos\\klitech\\HF\\BookLookUp\\BookLookUp\\Models\\SearchResult.cs",
-              "RelativeDocumentMoniker": "BookLookUp\\Models\\SearchResult.cs",
-              "ToolTip": "C:\\Users\\\u00C1d\u00E1m\\source\\repos\\klitech\\HF\\BookLookUp\\BookLookUp\\Models\\SearchResult.cs",
-              "RelativeToolTip": "BookLookUp\\Models\\SearchResult.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAbAAAA",
+              "DocumentIndex": 6,
+              "Title": "OpenLibraryService.cs",
+              "DocumentMoniker": "C:\\Users\\\u00C1d\u00E1m\\source\\repos\\klitech\\HF\\BookLookUp\\BookLookUp\\Services\\OpenLibraryService.cs",
+              "RelativeDocumentMoniker": "BookLookUp\\Services\\OpenLibraryService.cs",
+              "ToolTip": "C:\\Users\\\u00C1d\u00E1m\\source\\repos\\klitech\\HF\\BookLookUp\\BookLookUp\\Services\\OpenLibraryService.cs",
+              "RelativeToolTip": "BookLookUp\\Services\\OpenLibraryService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T18:14:39.733Z",
+              "WhenOpened": "2024-05-05T08:46:51.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Converters.cs",
+              "DocumentMoniker": "C:\\Users\\\u00C1d\u00E1m\\source\\repos\\klitech\\HF\\BookLookUp\\BookLookUp\\Services\\Converters.cs",
+              "RelativeDocumentMoniker": "BookLookUp\\Services\\Converters.cs",
+              "ToolTip": "C:\\Users\\\u00C1d\u00E1m\\source\\repos\\klitech\\HF\\BookLookUp\\BookLookUp\\Services\\Converters.cs",
+              "RelativeToolTip": "BookLookUp\\Services\\Converters.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADgAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T10:02:05.296Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "App.g.i.cs",
-              "DocumentMoniker": "C:\\Users\\\u00C1d\u00E1m\\source\\repos\\klitech\\HF\\BookLookUp\\BookLookUp\\obj\\x86\\Debug\\App.g.i.cs",
-              "RelativeDocumentMoniker": "BookLookUp\\obj\\x86\\Debug\\App.g.i.cs",
-              "ToolTip": "C:\\Users\\\u00C1d\u00E1m\\source\\repos\\klitech\\HF\\BookLookUp\\BookLookUp\\obj\\x86\\Debug\\App.g.i.cs",
-              "RelativeToolTip": "BookLookUp\\obj\\x86\\Debug\\App.g.i.cs",
-              "ViewState": "AQIAACAAAAAAAAAAAAASwC4AAAArAAAA",
+              "Title": "Work.cs",
+              "DocumentMoniker": "C:\\Users\\\u00C1d\u00E1m\\source\\repos\\klitech\\HF\\BookLookUp\\BookLookUp\\Models\\Work.cs",
+              "RelativeDocumentMoniker": "BookLookUp\\Models\\Work.cs",
+              "ToolTip": "C:\\Users\\\u00C1d\u00E1m\\source\\repos\\klitech\\HF\\BookLookUp\\BookLookUp\\Models\\Work.cs",
+              "RelativeToolTip": "BookLookUp\\Models\\Work.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAE8AAABxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T12:44:55.389Z",
+              "WhenOpened": "2024-05-05T11:30:30.453Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Book.cs",
-              "DocumentMoniker": "C:\\Users\\\u00C1d\u00E1m\\source\\repos\\klitech\\HF\\BookLookUp\\BookLookUp\\Models\\Book.cs",
-              "RelativeDocumentMoniker": "BookLookUp\\Models\\Book.cs",
-              "ToolTip": "C:\\Users\\\u00C1d\u00E1m\\source\\repos\\klitech\\HF\\BookLookUp\\BookLookUp\\Models\\Book.cs",
-              "RelativeToolTip": "BookLookUp\\Models\\Book.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAlAAAA",
+              "Title": "SearchResult.cs",
+              "DocumentMoniker": "C:\\Users\\\u00C1d\u00E1m\\source\\repos\\klitech\\HF\\BookLookUp\\BookLookUp\\Models\\SearchResult.cs",
+              "RelativeDocumentMoniker": "BookLookUp\\Models\\SearchResult.cs",
+              "ToolTip": "C:\\Users\\\u00C1d\u00E1m\\source\\repos\\klitech\\HF\\BookLookUp\\BookLookUp\\Models\\SearchResult.cs",
+              "RelativeToolTip": "BookLookUp\\Models\\SearchResult.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T17:20:52.591Z",
+              "WhenOpened": "2024-05-06T10:47:30.87Z",
               "EditorCaption": ""
             },
             {
@@ -136,149 +152,147 @@
               "RelativeDocumentMoniker": "BookLookUp\\Models\\BookList.cs",
               "ToolTip": "C:\\Users\\\u00C1d\u00E1m\\source\\repos\\klitech\\HF\\BookLookUp\\BookLookUp\\Models\\BookList.cs",
               "RelativeToolTip": "BookLookUp\\Models\\BookList.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAXAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T19:47:18.43Z",
+              "WhenOpened": "2024-05-05T13:57:24.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\\u00C1d\u00E1m\\source\\repos\\klitech\\HF\\BookLookUp\\BookLookUp\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "BookLookUp\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\\u00C1d\u00E1m\\source\\repos\\klitech\\HF\\BookLookUp\\BookLookUp\\Models\\Book.cs",
+              "RelativeToolTip": "BookLookUp\\Models\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADwAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T13:57:17.275Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "MainPage.xaml",
-              "DocumentMoniker": "C:\\Users\\\u00C1d\u00E1m\\source\\repos\\klitech\\HF\\BookLookUp\\BookLookUp\\Views\\MainPage.xaml",
-              "RelativeDocumentMoniker": "BookLookUp\\Views\\MainPage.xaml",
-              "ToolTip": "C:\\Users\\\u00C1d\u00E1m\\source\\repos\\klitech\\HF\\BookLookUp\\BookLookUp\\Views\\MainPage.xaml",
-              "RelativeToolTip": "BookLookUp\\Views\\MainPage.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-03T16:56:40.724Z",
+              "Title": "Author.cs",
+              "DocumentMoniker": "C:\\Users\\\u00C1d\u00E1m\\source\\repos\\klitech\\HF\\BookLookUp\\BookLookUp\\Models\\Author.cs",
+              "RelativeDocumentMoniker": "BookLookUp\\Models\\Author.cs",
+              "ToolTip": "C:\\Users\\\u00C1d\u00E1m\\source\\repos\\klitech\\HF\\BookLookUp\\BookLookUp\\Models\\Author.cs",
+              "RelativeToolTip": "BookLookUp\\Models\\Author.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T14:49:41.485Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
+              "Title": "MainPageViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\\u00C1d\u00E1m\\source\\repos\\klitech\\HF\\BookLookUp\\BookLookUp\\ViewModels\\MainPageViewModel.cs",
+              "RelativeDocumentMoniker": "BookLookUp\\ViewModels\\MainPageViewModel.cs",
+              "ToolTip": "C:\\Users\\\u00C1d\u00E1m\\source\\repos\\klitech\\HF\\BookLookUp\\BookLookUp\\ViewModels\\MainPageViewModel.cs",
+              "RelativeToolTip": "BookLookUp\\ViewModels\\MainPageViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T08:07:09.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "MainPage.xaml.cs",
               "DocumentMoniker": "C:\\Users\\\u00C1d\u00E1m\\source\\repos\\klitech\\HF\\BookLookUp\\BookLookUp\\Views\\MainPage.xaml.cs",
               "RelativeDocumentMoniker": "BookLookUp\\Views\\MainPage.xaml.cs",
               "ToolTip": "C:\\Users\\\u00C1d\u00E1m\\source\\repos\\klitech\\HF\\BookLookUp\\BookLookUp\\Views\\MainPage.xaml.cs",
               "RelativeToolTip": "BookLookUp\\Views\\MainPage.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-03T12:41:49.943Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "OpenLibraryService.cs",
-              "DocumentMoniker": "C:\\Users\\\u00C1d\u00E1m\\source\\repos\\klitech\\HF\\BookLookUp\\BookLookUp\\Sevices\\OpenLibraryService.cs",
-              "RelativeDocumentMoniker": "BookLookUp\\Sevices\\OpenLibraryService.cs",
-              "ToolTip": "C:\\Users\\\u00C1d\u00E1m\\source\\repos\\klitech\\HF\\BookLookUp\\BookLookUp\\Sevices\\OpenLibraryService.cs",
-              "RelativeToolTip": "BookLookUp\\Sevices\\OpenLibraryService.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAAiwB0AAACVAAAA",
+              "DocumentIndex": 11,
+              "Title": "DetailsPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u00C1d\u00E1m\\source\\repos\\klitech\\HF\\BookLookUp\\BookLookUp\\Views\\DetailsPage.xaml.cs",
+              "RelativeDocumentMoniker": "BookLookUp\\Views\\DetailsPage.xaml.cs",
+              "ToolTip": "C:\\Users\\\u00C1d\u00E1m\\source\\repos\\klitech\\HF\\BookLookUp\\BookLookUp\\Views\\DetailsPage.xaml.cs",
+              "RelativeToolTip": "BookLookUp\\Views\\DetailsPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T14:29:37.639Z",
+              "WhenOpened": "2024-05-05T11:24:39.084Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Author.cs",
-              "DocumentMoniker": "C:\\Users\\\u00C1d\u00E1m\\source\\repos\\klitech\\HF\\BookLookUp\\BookLookUp\\Models\\Author.cs",
-              "RelativeDocumentMoniker": "BookLookUp\\Models\\Author.cs",
-              "ToolTip": "C:\\Users\\\u00C1d\u00E1m\\source\\repos\\klitech\\HF\\BookLookUp\\BookLookUp\\Models\\Author.cs",
-              "RelativeToolTip": "BookLookUp\\Models\\Author.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 8,
+              "Title": "DetailsPageViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\\u00C1d\u00E1m\\source\\repos\\klitech\\HF\\BookLookUp\\BookLookUp\\ViewModels\\DetailsPageViewModel.cs",
+              "RelativeDocumentMoniker": "BookLookUp\\ViewModels\\DetailsPageViewModel.cs",
+              "ToolTip": "C:\\Users\\\u00C1d\u00E1m\\source\\repos\\klitech\\HF\\BookLookUp\\BookLookUp\\ViewModels\\DetailsPageViewModel.cs",
+              "RelativeToolTip": "BookLookUp\\ViewModels\\DetailsPageViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAA+AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T17:24:26.905Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "App.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\\u00C1d\u00E1m\\source\\repos\\klitech\\HF\\BookLookUp\\BookLookUp\\App.xaml.cs",
-              "RelativeDocumentMoniker": "BookLookUp\\App.xaml.cs",
-              "ToolTip": "C:\\Users\\\u00C1d\u00E1m\\source\\repos\\klitech\\HF\\BookLookUp\\BookLookUp\\App.xaml.cs",
-              "RelativeToolTip": "BookLookUp\\App.xaml.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAiwBUAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T12:36:23.596Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "App.xaml",
-              "DocumentMoniker": "C:\\Users\\\u00C1d\u00E1m\\source\\repos\\klitech\\HF\\BookLookUp\\BookLookUp\\App.xaml",
-              "RelativeDocumentMoniker": "BookLookUp\\App.xaml",
-              "ToolTip": "C:\\Users\\\u00C1d\u00E1m\\source\\repos\\klitech\\HF\\BookLookUp\\BookLookUp\\App.xaml",
-              "RelativeToolTip": "BookLookUp\\App.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-03T12:36:03.19Z",
+              "WhenOpened": "2024-05-05T10:26:44.754Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "AssemblyInfo.cs",
-              "DocumentMoniker": "C:\\Users\\\u00C1d\u00E1m\\source\\repos\\klitech\\HF\\BookLookUp\\BookLookUp\\Properties\\AssemblyInfo.cs",
-              "RelativeDocumentMoniker": "BookLookUp\\Properties\\AssemblyInfo.cs",
-              "ToolTip": "C:\\Users\\\u00C1d\u00E1m\\source\\repos\\klitech\\HF\\BookLookUp\\BookLookUp\\Properties\\AssemblyInfo.cs",
-              "RelativeToolTip": "BookLookUp\\Properties\\AssemblyInfo.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T13:54:34.351Z",
+              "Title": "DetailsPage.xaml",
+              "DocumentMoniker": "C:\\Users\\\u00C1d\u00E1m\\source\\repos\\klitech\\HF\\BookLookUp\\BookLookUp\\Views\\DetailsPage.xaml",
+              "RelativeDocumentMoniker": "BookLookUp\\Views\\DetailsPage.xaml",
+              "ToolTip": "C:\\Users\\\u00C1d\u00E1m\\source\\repos\\klitech\\HF\\BookLookUp\\BookLookUp\\Views\\DetailsPage.xaml",
+              "RelativeToolTip": "BookLookUp\\Views\\DetailsPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-05T10:48:17.947Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 16,
+              "Title": "DetailsPage.g.cs",
+              "DocumentMoniker": "C:\\Users\\\u00C1d\u00E1m\\source\\repos\\klitech\\HF\\BookLookUp\\BookLookUp\\obj\\x86\\Debug\\Views\\DetailsPage.g.cs",
+              "RelativeDocumentMoniker": "BookLookUp\\obj\\x86\\Debug\\Views\\DetailsPage.g.cs",
+              "ToolTip": "C:\\Users\\\u00C1d\u00E1m\\source\\repos\\klitech\\HF\\BookLookUp\\BookLookUp\\obj\\x86\\Debug\\Views\\DetailsPage.g.cs",
+              "RelativeToolTip": "BookLookUp\\obj\\x86\\Debug\\Views\\DetailsPage.g.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAtwCYAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T10:48:59.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\\u00C1d\u00E1m\\source\\repos\\klitech\\HF\\BookLookUp\\BookLookUp\\Views\\MainPage.xaml",
+              "RelativeDocumentMoniker": "BookLookUp\\Views\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\\u00C1d\u00E1m\\source\\repos\\klitech\\HF\\BookLookUp\\BookLookUp\\Views\\MainPage.xaml",
+              "RelativeToolTip": "BookLookUp\\Views\\MainPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-04T08:56:08.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "App.g.i.cs",
+              "DocumentMoniker": "C:\\Users\\\u00C1d\u00E1m\\source\\repos\\klitech\\HF\\BookLookUp\\BookLookUp\\obj\\x86\\Debug\\App.g.i.cs",
+              "RelativeDocumentMoniker": "BookLookUp\\obj\\x86\\Debug\\App.g.i.cs",
+              "ToolTip": "C:\\Users\\\u00C1d\u00E1m\\source\\repos\\klitech\\HF\\BookLookUp\\BookLookUp\\obj\\x86\\Debug\\App.g.i.cs",
+              "RelativeToolTip": "BookLookUp\\obj\\x86\\Debug\\App.g.i.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAADgvzQAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T14:42:41.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "MainPage.g.cs",
               "DocumentMoniker": "C:\\Users\\\u00C1d\u00E1m\\source\\repos\\klitech\\HF\\BookLookUp\\BookLookUp\\obj\\x86\\Debug\\Views\\MainPage.g.cs",
               "RelativeDocumentMoniker": "BookLookUp\\obj\\x86\\Debug\\Views\\MainPage.g.cs",
               "ToolTip": "C:\\Users\\\u00C1d\u00E1m\\source\\repos\\klitech\\HF\\BookLookUp\\BookLookUp\\obj\\x86\\Debug\\Views\\MainPage.g.cs",
               "RelativeToolTip": "BookLookUp\\obj\\x86\\Debug\\Views\\MainPage.g.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEYAAAAAAAAA",
+              "ViewState": "AQIAACEAAAAAAAAAAADgvzAAAACMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T13:55:20.019Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Package.appxmanifest",
-              "DocumentMoniker": "C:\\Users\\\u00C1d\u00E1m\\source\\repos\\klitech\\HF\\BookLookUp\\BookLookUp\\Package.appxmanifest",
-              "RelativeDocumentMoniker": "BookLookUp\\Package.appxmanifest",
-              "ToolTip": "C:\\Users\\\u00C1d\u00E1m\\source\\repos\\klitech\\HF\\BookLookUp\\BookLookUp\\Package.appxmanifest",
-              "RelativeToolTip": "BookLookUp\\Package.appxmanifest",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001793|",
-              "WhenOpened": "2024-05-03T13:52:32.657Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Custom.xaml",
-              "DocumentMoniker": "C:\\Users\\\u00C1d\u00E1m\\source\\repos\\klitech\\HF\\BookLookUp\\BookLookUp\\Styles\\Custom.xaml",
-              "RelativeDocumentMoniker": "BookLookUp\\Styles\\Custom.xaml",
-              "ToolTip": "C:\\Users\\\u00C1d\u00E1m\\source\\repos\\klitech\\HF\\BookLookUp\\BookLookUp\\Styles\\Custom.xaml",
-              "RelativeToolTip": "BookLookUp\\Styles\\Custom.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-03T12:48:35.547Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "MainPage.g.i.cs",
-              "DocumentMoniker": "C:\\Users\\\u00C1d\u00E1m\\source\\repos\\klitech\\HF\\BookLookUp\\BookLookUp\\obj\\x86\\Debug\\Views\\MainPage.g.i.cs",
-              "RelativeDocumentMoniker": "BookLookUp\\obj\\x86\\Debug\\Views\\MainPage.g.i.cs",
-              "ToolTip": "C:\\Users\\\u00C1d\u00E1m\\source\\repos\\klitech\\HF\\BookLookUp\\BookLookUp\\obj\\x86\\Debug\\Views\\MainPage.g.i.cs",
-              "RelativeToolTip": "BookLookUp\\obj\\x86\\Debug\\Views\\MainPage.g.i.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAewBYAAABpAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T12:45:08.098Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-05T08:19:14.063Z"
             }
           ]
         }

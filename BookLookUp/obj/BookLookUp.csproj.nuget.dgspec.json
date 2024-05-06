@@ -52,6 +52,10 @@
               "target": "Package",
               "version": "[9.0.1, )"
             },
+            "System.Text.Json": {
+              "target": "Package",
+              "version": "[8.0.3, )"
+            },
             "Template10": {
               "target": "Package",
               "version": "[1.1.12, )"
